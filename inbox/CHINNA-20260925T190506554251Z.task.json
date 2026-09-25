@@ -1,0 +1,11 @@
+{
+  "routing_decision": {
+    "intent": "build",
+    "execution_zone": "cursor_local",
+    "requires_research": false,
+    "target_project": "Agent-Chinna"
+  },
+  "original_message": "Build my local feature",
+  "created_at": "2026-09-25T19:05:06.554251Z",
+  "telegram_update_id": 375007636634266165
+}
