@@ -1,0 +1,11 @@
+{
+  "routing_decision": {
+    "intent": "build",
+    "execution_zone": "cursor_local",
+    "requires_research": false,
+    "target_project": "Agent-Chinna"
+  },
+  "original_message": "Refactor the authentication service in my local Flutter clinic app to include biometric login.",
+  "created_at": "2026-09-25T12:59:31.338212Z",
+  "telegram_update_id": 362373905
+}
