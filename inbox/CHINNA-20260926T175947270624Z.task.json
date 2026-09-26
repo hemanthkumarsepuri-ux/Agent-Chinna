@@ -1,0 +1,7 @@
+{
+  "task_id": "CHINNA-20260926T175947270624Z",
+  "intent": "CUSTOM_LLM",
+  "target": "NONE",
+  "raw_text": "/pending",
+  "requires_llm": true
+}
