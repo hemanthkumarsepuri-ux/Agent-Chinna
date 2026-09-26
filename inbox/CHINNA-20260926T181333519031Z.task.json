@@ -1,0 +1,7 @@
+{
+  "task_id": "CHINNA-20260926T181333519031Z",
+  "intent": "START_SUPABASE",
+  "target": "DENTALFLOW",
+  "raw_text": "Open DentalFlow and start supabase",
+  "requires_llm": false
+}
