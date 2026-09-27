@@ -1,0 +1,7 @@
+{
+  "task_id": "CHINNA-20260927T143107047058Z",
+  "intent": "OPEN_PROJECT",
+  "target": "DENTALFLOW",
+  "raw_text": "Open DentalFlow",
+  "requires_llm": false
+}
