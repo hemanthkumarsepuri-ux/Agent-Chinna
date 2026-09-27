@@ -1,0 +1,7 @@
+{
+  "task_id": "CHINNA-20260927T202123413169Z",
+  "intent": "CUSTOM_LLM",
+  "target": "NONE",
+  "raw_text": "Go to Chrome and search for creating a youtube channel for kids is the main target so what are required can we do with ai and list down all in notepad and saved kids youtube channel content",
+  "requires_llm": true
+}
