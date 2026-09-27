@@ -1,0 +1,7 @@
+{
+  "task_id": "CHINNA-20260927T155642167917Z",
+  "intent": "CUSTOM_LLM",
+  "target": "NONE",
+  "raw_text": "Open Make.com in my browser and launch the Windows Calculator.",
+  "requires_llm": true
+}
