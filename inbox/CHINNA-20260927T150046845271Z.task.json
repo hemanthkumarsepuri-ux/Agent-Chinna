@@ -1,0 +1,7 @@
+{
+  "task_id": "CHINNA-20260927T150046845271Z",
+  "intent": "FLUTTER_RUN",
+  "target": "NONE",
+  "raw_text": "Hey Chinna, I'm ready to work on the dental project. Can you fire up the mobile emulator for me?",
+  "requires_llm": false
+}
