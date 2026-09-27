@@ -1,0 +1,7 @@
+{
+  "task_id": "CHINNA-20260927T154810127791Z",
+  "intent": "CUSTOM_LLM",
+  "target": "NONE",
+  "raw_text": "Open Make.com in my browser, launch Notepad, and type 'Invoice workflow automation ready'.",
+  "requires_llm": true
+}
