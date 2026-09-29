@@ -1,0 +1,7 @@
+{
+  "task_id": "CHINNA-20260929T134310865119Z",
+  "intent": "CUSTOM_LLM",
+  "target": "NONE",
+  "raw_text": "Open Make.com and launch the calculator",
+  "requires_llm": true
+}
